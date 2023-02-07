@@ -1,0 +1,22 @@
+{
+    "EURUSD":{
+       "Screener":"forex",
+       "Exchange":"FX_IDC",
+       "Symbol":"EURUSD"
+    },
+    "USDJPY":{
+       "Screener":"forex",
+       "Exchange":"FX_IDC",
+       "Symbol":"USDJPY"
+    }
+ }
+
+
+
+
+
+
+
+
+
+
