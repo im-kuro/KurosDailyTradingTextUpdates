@@ -30,7 +30,7 @@ phonefrom = ""
 (1 hour = 3600)    
 waitLoopTime = 0
 
-6. change the choices.json file to the stocks/options/futures ect. you want. 
+4. change the choices.json file to the stocks/options/futures ect. you want. 
 - use https://tvdb.brianthe.dev/ to get the correct info
 
 
